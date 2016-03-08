@@ -79,7 +79,7 @@ z = answer.reshape(xx.shape)
 plt.contourf(xx, yy, z, cmap=plt.cm.Paired, alpha=0.8)
 
 ''' paint train data'''
-plt.scatter(x_train[:, 0], x_train[:, 1], c=y_train, cmap=plt.cm.Paired)
-plt.xlabel('high')
-plt.ylabel('weight')
-plt.show()
+#plt.scatter(x_train[:, 0], x_train[:, 1], c=y_train, cmap=plt.cm.Paired)
+#plt.xlabel('high')
+#plt.ylabel('weight')
+#plt.show()

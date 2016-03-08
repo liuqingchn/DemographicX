@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d40b9f1a-1983-4af7-988e-10841ba07928" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools/kNNtest.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/strategy/first_sample_strategy.py" afterPath="$PROJECT_DIR$/strategy/first_sample_strategy.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tools/tools.py" afterPath="$PROJECT_DIR$/tools/tools.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="d40b9f1a-1983-4af7-988e-10841ba07928" name="Default" comment="" />
     <ignored path="DemographicX.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -102,8 +96,8 @@
       <file leaf-file-name="kNNtest.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/tools/kNNtest.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-1.5626327" vertical-offset="1076" max-vertical-offset="1547">
-              <caret line="20" column="25" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+            <state vertical-scroll-proportion="0.20594479" vertical-offset="1076" max-vertical-offset="1547">
+              <caret line="69" column="0" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
               <folding>
                 <element signature="e#47#65#0" expanded="true" />
               </folding>
@@ -572,7 +566,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="114" y="23" width="1355" height="877" extended-state="0" />
+    <frame x="114" y="23" width="1355" height="877" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -697,8 +691,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/tools/kNNtest.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.5626327" vertical-offset="1076" max-vertical-offset="1547">
-          <caret line="20" column="25" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+        <state vertical-scroll-proportion="0.20594479" vertical-offset="1076" max-vertical-offset="1547">
+          <caret line="69" column="0" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
           <folding>
             <element signature="e#47#65#0" expanded="true" />
           </folding>
